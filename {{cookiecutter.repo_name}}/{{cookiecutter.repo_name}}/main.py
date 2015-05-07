@@ -7,5 +7,5 @@ def main():
     {{cookiecutter.app_class_name}}().run()
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
     main()
