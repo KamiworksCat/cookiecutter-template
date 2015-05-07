@@ -1,1 +1,5 @@
 # Yet to be filled
+
+# Ignore .idea
+/.idea
+.idea/*
