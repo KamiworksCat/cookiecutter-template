@@ -17,7 +17,7 @@ class {{cookiecutter.app_class_name}}(App):
     Basic Kivy App with a user defined title.
     """
 
-    title = '{{cookiecutter.app-title}}'
+    title = '{{cookiecutter.app_title}}'
 
     def build(self):
         return self.root
